@@ -1,0 +1,6 @@
+[submodule "repos/powerline"]
+	path = repos/powerline
+	url = https://github.com/powerline/powerline
+[submodule ".oh-my-zsh"]
+	path = .oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh
