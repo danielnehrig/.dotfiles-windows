@@ -1,0 +1,6 @@
+#!/usr/bin/python
+# EASY-INSTALL-DEV-SCRIPT: 'powerline-status==2.1.dev9999+git.4f8f9616ace388653ade3831e6ccf442461d13aa',u'powerline-lint'
+__requires__ = 'powerline-status==2.1.dev9999+git.4f8f9616ace388653ade3831e6ccf442461d13aa'
+__import__('pkg_resources').require('powerline-status==2.1.dev9999+git.4f8f9616ace388653ade3831e6ccf442461d13aa')
+__file__ = u'/home/inetpwnz/repos/powerline/scripts/powerline-lint'
+exec(compile(open(__file__).read(), __file__, 'exec'))

@@ -92,3 +92,4 @@ screensaver_source=~/terminal-screensaver-include.sh
 source ~/.bin/tmuxinator.zsh
 source ~/.zsh/art.zsh
 source ~/.zsh/alias.zsh
+source ~/repos/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
